@@ -10,7 +10,7 @@ function App() {
       <Header />
       <header className="App-header">
         <p>
-          Dyanna Tolman
+         Portfolio
         </p>
       </header>
     </div>
