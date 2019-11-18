@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import logo1 from './logo1.png';
+import example1 from './example1.jpeg'
 import './App.css';
 
 function App() {
@@ -9,9 +10,9 @@ function App() {
       <img src={logo1} className="logo1" alt="logo" />
       <Header />
       <header className="App-header">
-        <p>
-         Portfolio
-        </p>
+        <div className="body">
+          <img src={example1} className="example1" alt="example1" />
+        </div>
       </header>
     </div>
   );
