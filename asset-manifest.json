@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deetolman/workPortfolio/static/css/main.b100e6da.chunk.css",
+    "main.js": "/deetolman/workPortfolio/static/js/main.faec57d4.chunk.js",
+    "main.js.map": "/deetolman/workPortfolio/static/js/main.faec57d4.chunk.js.map",
+    "runtime-main.js": "/deetolman/workPortfolio/static/js/runtime-main.29af9578.js",
+    "runtime-main.js.map": "/deetolman/workPortfolio/static/js/runtime-main.29af9578.js.map",
+    "static/js/2.6bc3001f.chunk.js": "/deetolman/workPortfolio/static/js/2.6bc3001f.chunk.js",
+    "static/js/2.6bc3001f.chunk.js.map": "/deetolman/workPortfolio/static/js/2.6bc3001f.chunk.js.map",
+    "index.html": "/deetolman/workPortfolio/index.html",
+    "precache-manifest.8753b117374dfd0929d027082401f7fa.js": "/deetolman/workPortfolio/precache-manifest.8753b117374dfd0929d027082401f7fa.js",
+    "service-worker.js": "/deetolman/workPortfolio/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/deetolman/workPortfolio/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/deetolman/workPortfolio/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29af9578.js",
+    "static/js/2.6bc3001f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.faec57d4.chunk.js"
+  ]
+}
